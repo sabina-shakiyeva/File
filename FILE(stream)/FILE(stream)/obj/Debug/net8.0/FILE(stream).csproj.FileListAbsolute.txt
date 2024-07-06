@@ -1,0 +1,14 @@
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\bin\Debug\net8.0\FILE(stream).exe
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\bin\Debug\net8.0\FILE(stream).deps.json
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\bin\Debug\net8.0\FILE(stream).runtimeconfig.json
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\bin\Debug\net8.0\FILE(stream).dll
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\bin\Debug\net8.0\FILE(stream).pdb
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\obj\Debug\net8.0\FILE(stream).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\obj\Debug\net8.0\FILE(stream).AssemblyInfoInputs.cache
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\obj\Debug\net8.0\FILE(stream).AssemblyInfo.cs
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\obj\Debug\net8.0\FILE(stream).csproj.CoreCompileInputs.cache
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\obj\Debug\net8.0\FILE(stream).dll
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\obj\Debug\net8.0\refint\FILE(stream).dll
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\obj\Debug\net8.0\FILE(stream).pdb
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\obj\Debug\net8.0\FILE(stream).genruntimeconfig.cache
+C:\Users\sabina\source\repos\FILE(stream)\FILE(stream)\obj\Debug\net8.0\ref\FILE(stream).dll
